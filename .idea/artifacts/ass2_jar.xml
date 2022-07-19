@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ass2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ass2_jar</output-path>
+    <root id="archive" name="ass2.jar">
+      <element id="module-output" name="thebestwords" />
+    </root>
+  </artifact>
+</component>
